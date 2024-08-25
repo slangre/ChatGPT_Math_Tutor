@@ -2,7 +2,7 @@
 Datenerhebung zu Antworten von ChatGPT 3.5, 4.0 und 4.0 mit Wolfram auf mathematische Fragen, ergänzt durch Umfrageergebnisse von Studierenden und Nachhilfenehmenden.
 
 **Über dieses Repository**
-Dieses Repository enthält die im Rahmen einer Forschungsarbeit zur Analyse der Antwortenqualität verschiedener ChatGPT-Versionen auf mathematische Fragen gesammelten Datensätze. Die Datensammlung beinhaltet Antworten von *ChatGPT 3.5, ChatGPT 4.0* und *ChatGPT 4.0* mit der Integration von *Wolfram Alpha*. Sowie die Umfrageergebnisse von 13 Nachhilfenehmenden und 38 Studierenden. Die zu beantwortenden mathematischen Fragen entstammen fünf unterschiedlichen Themengebieten *Gleichungen, Integralrechnung, Stochastik, analytische Geometrie und Logikrätsel* jedes dieser Themengebiete beinhaltet fünf verschiedene Fragen, die an jede der untersuchten KIs dreimal wiederholt gestellt wurde.
+Dieses Repository enthält die im Rahmen einer Forschungsarbeit zur Analyse der Antwortenqualität verschiedener ChatGPT-Versionen auf mathematische Fragen gesammelten Datensätze. Die Datensammlung beinhaltet Antworten von *ChatGPT 3.5, ChatGPT 4.0* und *ChatGPT 4.0* mit der Integration von *Wolfram Alpha*. Die zu beantwortenden mathematischen Fragen entstammen fünf unterschiedlichen Themengebieten *Gleichungen, Integralrechnung, Stochastik, analytische Geometrie und Logikrätsel* jedes dieser Themengebiete beinhaltet fünf verschiedene Fragen, die an jede der untersuchten KIs dreimal wiederholt gestellt wurde.
 
 **Datensatz: ChatGPT Antworten**
 Der Datensatz besteht aus 225 von den oben genannt ChatGPT-Versionen generierte Antworten in Form von Screenshots der Chatverläufe als .png Dateien. Zur Verbesserung der Bildqualität wurden die Chatverläufe nachträglich erneut in verbesserter Qualität aufgenommen. Dabei wurden längere Chatverläufe auf mehrere Bilder aufgeteilt, wobei die Reihenfolge im Namen der Datei kenntlich gemacht wurde. Bei dem erneuten Aufrufen der archivierten Chats sind im Vergleich zu den Ursprünglichen für die Datenauswertung verwendeten Chats fielen folgende Veränderungen auf:
@@ -17,9 +17,6 @@ Der Datensatz besteht aus 225 von den oben genannt ChatGPT-Versionen generierte 
 | 2x = 4    | ...                     |
 
 Zusätzlich liegt für jede mathematische Aufgabe die bei der Auswertung verwendete Musterlösung mit einem exemplarischen Rechenweg bei. Dieser Rechenweg ist in der Form exemplarisch, dass der aufgeführte Rechenweg nicht die einzige Möglichkeit zur Lösung dieser Aufgabe darstellt und somit selbstverständlich auch andere Lösungswege akzeptiert wurden.
-
-**Datensatz: Umfrage**
-Dieses Repository enthält die Ergebnisse einer Umfrage unter 28 Studierenden und 13 Nachhilfenehmenden. Diese Umfrage diente dazu, die Einschätzung der für den Einsatz von ChatGPT in der Bildung relevanten Zielgruppen mit einzubeziehen. Die einzelnen Umfragebögen werden in tabellarischer Form aufgelistet.
 
 **Struktur des Repositories:**
 *chatgpt_datensammlung/*: Enthält die strukturierte Sammlung der gestellten Fragen und ihrer generierten Antworten.
