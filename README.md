@@ -10,10 +10,10 @@ Der Datensatz besteht aus 225 von den oben genannt ChatGPT-Versionen generierte 
 2. In seltenen Fällen fehlten nach dem erneuten Aufrufen der Chats Satzteile/ Teile der Erklärung. Dies trat auch mitten in den Erklärungen in Satzmitte auf. Auch in diesem Fall wurde der betroffene Teil aus den alten Datensätzen entnommen und separat den Antworten beigefügt.
 3. Mehrheitlich ist die Formatierung der Rechnungen anders als in der ursprünglichen Anzeige. So wurden Rechnungen, welche früher untereinander aufgeführt wurden, nach dem erneuten Aufrufen nebeneinander angezeigt.
    Bsp.:
-  | vorher | nachher | 
-  |----------|----------|
-  | 2x +2 = 6 |  2x +2 = 6   2x = 4 |
-  | 2x = 4 | ... |
+| vorher   | nachher                 |
+|----------|-------------------------|
+| 2x + 2 = 6 | 2x + 2 = 6   2x = 4    |
+| 2x = 4    | ...                     |
 
 Zusätzlich liegt für jede mathematische Aufgabe die bei der Auswertung verwendete Musterlösung mit einem exemplarischen Rechenweg bei. Dieser Rechenweg ist in der Form exemplarisch, dass der aufgeführte Rechenweg nicht die einzige Möglichkeit zur Lösung dieser Aufgabe darstellt und somit selbstverständlich auch andere Lösungswege akzeptiert wurden.
 
